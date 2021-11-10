@@ -32,22 +32,21 @@ footer {
   background-color: rgb(20,15,94,0.5);
   color: white;
 }
+
 .insta, .tiktok, .twitter {
   height: 30px;
 }
-.google_maps{
-  margin: 10px;
-  padding-left: 30px;
-  width: 50%;
-}
+
 .txt_h1{
   text-align: center;
   font-size: 34px;
   margin: 2 px;
 }
+
 .rg_embed_link{
   margin: 20px;
 }
+
 .ghosting_video, .new_rules_video, .lover_video, .nap_of_star_video{
   height: 300px;
   width: 600px;
@@ -62,7 +61,7 @@ footer {
   text-align: center;
   font-size: 26px;
 }
-.p_2{
+.p_2, .explain2, .explain{
   background-color: rgb(174,217,230,0.8);
   color: black;
   text-align: center;
@@ -72,33 +71,20 @@ footer {
   color: rgb(110,107,190);
   text-align: center;
   font-size: 26px;
-  width: 50%;
-}
-.google_text{
-  background-color: rgb(110,107,190);
-  color: black;
-  text-align: right;
-  font-size: 15px;
+  padding-left: 10px;
 }
 * {
   box-sizing: border-box;
 }
-.column {
-  float: right;
+.google_maps{
   width: 50%;
-  padding: 10px;
-  height: 300px; 
-} 
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
+  padding-left: 10px;
 }
-center{
+.frost{
   background-image: url(../image_folder/txt_frost.jpeg);
   height: 840px;
   width: 1259px;
   object-fit: contain;
   background-size: 100% 100% ;
-  
+  width : 100%;
 }
