@@ -1,0 +1,97 @@
+/** making the website have ~PERSONALITY~ **/
+body,html {
+     margin: 0;
+     font-family: monospace;
+     background-color:rgba(0, 0, 0, 0.6);
+}   
+.nav {
+     overflow: hidden;
+     background-color: rgb(20,15,94);
+}
+.nav a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 15px 15px;
+    text-decoration: none;
+    font-size: 31px;
+}
+img.txt{
+  height: 840px;
+  width: 1259px;
+  object-fit: contain;
+
+}
+
+.logo{
+  height: 75px;
+}
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: rgb(20,15,94,0.5);
+  color: white;
+}
+.insta, .tiktok, .twitter {
+  height: 30px;
+}
+.google_maps{
+  margin: 10px;
+  padding-left: 30px;
+  width: 50%;
+}
+.txt_h1{
+  text-align: center;
+  font-size: 34px;
+  margin: 2 px;
+}
+.rg_embed_link{
+  margin: 20px;
+}
+.ghosting_video, .new_rules_video, .lover_video, .nap_of_star_video{
+  height: 300px;
+  width: 600px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 50px;
+  padding-left: 50px;
+  margin: 10px;
+}
+.p_1, .hybe_location{
+  color: lightblue;
+  text-align: center;
+  font-size: 26px;
+}
+.p_2{
+  background-color: rgb(174,217,230,0.8);
+  color: black;
+  text-align: center;
+  font-size: 15px;
+}
+.hybe_location{
+  color: rgb(110,107,190);
+  text-align: center;
+  font-size: 26px;
+  width: 50%;
+}
+.google_text{
+  background-color: rgb(110,107,190);
+  color: black;
+  text-align: right;
+  font-size: 15px;
+}
+* {
+  box-sizing: border-box;
+}
+.column {
+  float: right;
+  width: 50%;
+  padding: 10px;
+  height: 300px; 
+} 
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}

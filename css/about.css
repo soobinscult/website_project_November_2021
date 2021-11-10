@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    font-family: monospace;
+    background-color: rgba(110,107,190,0.5);
+}   
+.nav {
+    overflow: hidden;
+    background-color: rgb(20,15,94);
+}
+.nav a {
+   float: right;
+   color: #f2f2f2;
+   text-align: center;
+   padding: 15px 15px;
+   text-decoration: none;
+   font-size: 30px;
+}
+.logo{
+    height: 75px;
+  }
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(20,15,94,0.5);
+    color: white;
+  }
+  .insta, .tiktok, .twitter {
+    height: 30px;
+  }
+.wonderland_txt{
+    object-fit: contain;
+    height: 900px;
+    width: 900px;
+}
+.h1{
+    padding-left: 20px;
+    font-size: 60px;
+}
+.p{
+    font-size: 30px;
+    text-align: left;
+    padding: 10px;
+}
+.p2{
+    font-size: 30px;
+    text-align: left;
+    padding: 10px;
+}

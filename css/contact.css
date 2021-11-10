@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    font-family: monospace;
+    background-color: rgba(110,107,190,0.5);
+}   
+.nav {
+    overflow: hidden;
+    background-color: rgb(20,15,94);
+}
+.nav a {
+   float: right;
+   color: #f2f2f2;
+   text-align: center;
+   padding: 15px 15px;
+   text-decoration: none;
+   font-size: 30px;
+}
+.logo{
+    height: 75px;
+  }
+.h1{
+    color: lightblue;
+  text-align: center;
+  font-size: 60px;
+}
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(20,15,94,0.5);
+    color: white;
+  }
+  .insta, .tiktok, .twitter {
+    height: 30px;
+  }
+.p{
+    color: lightblue;
+  text-align: center;
+  font-size: 40px;
+}
+.p2{
+    color: rgb(110,107,190,);
+  text-align: center;
+  font-size: 40px;
+}
