@@ -20,7 +20,6 @@ img.txt{
   height: 840px;
   width: 1259px;
   object-fit: contain;
-
 }
 
 .logo{
@@ -94,4 +93,12 @@ footer {
   content: "";
   display: table;
   clear: both;
+}
+center{
+  background-image: url(../image_folder/txt_frost.jpeg);
+  height: 840px;
+  width: 1259px;
+  object-fit: contain;
+  background-size: 100% 100% ;
+  
 }
